@@ -7,7 +7,7 @@ error_reporting(0);
 ?>
 	<div class="reservation_top">
 		<div class=" contact_right">
-			<h3>Contacto</h3>
+			<h3>Contactenos hoy</h3>
 			<div class="contact-form">
 				<form action="enviar.php" method="post">
 					<input type="text" class="textbox" placeholder="Nombre" name="nombre" value="<?php echo $_GET['nombre']; ?>" >
